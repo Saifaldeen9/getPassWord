@@ -1,0 +1,16 @@
+h2{
+    color: brown;
+}
+
+#container{
+    width: 95%;
+    padding: 5em;
+    margin: 0% 30%;
+
+}
+
+#container * {
+    margin: 1em;
+    position: relative;
+    
+}
